@@ -1,4 +1,4 @@
-# Javascript-Oportunities
+# JOB BOARD - JS/TS - Marie Lherbet TR
 
 Be the first to stay informed about the best opportunities in JavaScript/TypeScript.
 

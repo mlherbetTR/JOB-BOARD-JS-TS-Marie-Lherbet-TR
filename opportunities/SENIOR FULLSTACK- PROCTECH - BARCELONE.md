@@ -1,6 +1,6 @@
 **Senior Fullstack Typescript or Lead Backend- 100% Remote - UP TO 70K**
 
-2 great opportunities :) !
+2 great opportunities :)!
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .
 With a team of 40 people, With a team of 40 people, you will have the opportunity to be part of a unique product: an analytics-first Strategic Sourcing Platform, empowering Procurement teams.

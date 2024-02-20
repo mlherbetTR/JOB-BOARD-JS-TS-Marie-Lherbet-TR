@@ -1,5 +1,5 @@
 
-** Tech Lead Backend- 100% Remote - UP TO 90K**
+**Fullstack- 100% Remote - UP TO 70K**
 
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .

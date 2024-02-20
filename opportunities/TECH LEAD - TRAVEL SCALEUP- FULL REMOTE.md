@@ -1,4 +1,4 @@
-**Tech Lead**
+**Staff Engineer or Architect**
 
 About Us 👀 
 
@@ -12,7 +12,7 @@ Build, maintain, and scale infrastructure for production and development environ
 Comprehend automation requirements and collaborate closely with the development team.
 
 Requirements💻
-3+ years of experience with PHP 7+ and Symfony 4+.
+5+ years of experience with PHP 7+ and Symfony 4+ OR Nodejs/TS.
 Strong understanding of Object-Oriented Programming (OOP) and SOLID principles.
 Knowledge of hexagonal architecture and Domain-Driven Design (DDD).
 Experience with unit testing, TDD, and ATDD.
@@ -30,7 +30,7 @@ Desire to advance within the company and take on leadership roles.
 Knowledge of DevOps and infrastructure.
 
 Benefits💰
-Salary up to 70k
+Salary up to 75k
 Individual Training Budget.
 Flexible compensation on transportation and food.
 Flexible working schedule.

@@ -1,4 +1,4 @@
-**Staff Engineer**
+**Tech Lead**
 
 About the company ⭐
 

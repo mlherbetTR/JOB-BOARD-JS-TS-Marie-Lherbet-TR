@@ -24,7 +24,6 @@ You are a lover of good practices and have experience in testing + TDD.
 Fluent in English
 
 
-
 Bonus points for 👀
 You are an advocate of best coding practices
 Experience with Microservices, designing, building, and maintaining Rest APIs and domain-driven design.

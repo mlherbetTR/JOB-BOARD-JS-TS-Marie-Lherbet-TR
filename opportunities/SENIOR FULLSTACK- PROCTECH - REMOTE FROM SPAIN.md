@@ -12,7 +12,7 @@ If you're interested in working on a SaaS Platform in an international environme
 
 
 Location 🏠 100% Remote from Spain
-Benefits 💲 starting from 70 000€ and up to 85.000€ + perks + Full Time.
+Benefits 💲 starting from 70 000€ and up to 100.000€ + perks + Full Time.
 Product 💻 Saas Platform
 
 

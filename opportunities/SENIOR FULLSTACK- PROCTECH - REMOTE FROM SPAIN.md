@@ -1,7 +1,6 @@
 
 **Fullstack- 100% Remote - UP TO 70K**
 
-
 Switzerland startup with great growth potential who has built a very competitive SaaS .
 With a team of 40 people, With a team of 40 people, you will have the opportunity to be part of a unique product: an analytics-first Strategic Sourcing Platform, empowering Procurement teams.
 The team is composed of individuals with a high level of technical expertise, including tech community influencers (Ex-Microsoft, Ex-Google, etc.).

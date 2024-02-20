@@ -2,6 +2,7 @@
 
 About the company ⭐
 
+
 By combining advances in medicine, data science and behavioral science, that deeptech startup provides its members with a state-of-the art 360° medical check-up, followed by a personalized digital support system to profoundly improve their quality of life and healthspan.
 
 **A network of high-end health centers** where members meet their medical team, undergo their check-up and start their preventive health journey

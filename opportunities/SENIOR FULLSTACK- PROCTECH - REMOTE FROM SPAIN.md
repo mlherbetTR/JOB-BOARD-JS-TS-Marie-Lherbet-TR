@@ -7,7 +7,6 @@ The team is composed of individuals with a high level of technical expertise, in
 After raising 10 million and opening a hub in Barcelona, we are now seeking a Technical Lead!
 
 
-
 If you're interested in working on a SaaS Platform in an international environments and want to grow, this is your opportunity.
 
 

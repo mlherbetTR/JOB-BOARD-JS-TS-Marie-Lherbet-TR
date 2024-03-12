@@ -2,8 +2,11 @@
 **TECH LEAD OR FULLSTACK- 100% Remote - UP TO 100K** 
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .
-With a team of 40 people, With a team of 40 people, you will have the opportunity to be part of a unique product: an analytics-first Strategic Sourcing Platform, empowering Procurement teams.
+
+With a team of 40 people, you will have the opportunity to be part of a unique product: an analytics-first Strategic Sourcing Platform, empowering Procurement teams.
+
 The team is composed of individuals with a high level of technical expertise, including tech community influencers (Ex-Microsoft, Ex-Google, etc.).
+
 After raising 10 million and opening a hub in Barcelona, we are now seeking a Technical Lead!
 
 

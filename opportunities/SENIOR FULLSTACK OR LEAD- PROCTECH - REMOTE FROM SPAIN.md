@@ -1,5 +1,5 @@
 
-**TECH LEAD- 100% Remote - UP TO 100K** 
+**TECH LEAD OR FULLSTACK- 100% Remote - UP TO 100K** 
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .
 With a team of 40 people, With a team of 40 people, you will have the opportunity to be part of a unique product: an analytics-first Strategic Sourcing Platform, empowering Procurement teams.
@@ -12,7 +12,8 @@ If you're interested in working on a SaaS Platform in an international environme
 
 
 Location 🏠 100% Remote from Spain
-Benefits 💲 starting from 70 000€ and up to 100.000€ + perks + Full Time.
+Benefits for the Lead 💲 starting from 70 000€ and up to 100.000€ + perks + Full Time.
+Benefits for the Fullstack 💲 starting from 55 000€ and up to 70.000€ + perks + Full Time.
 Product 💻 Saas Platform
 
 

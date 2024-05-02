@@ -1,6 +1,6 @@
-**Tech Lead**
+**Mobile Engineer - React Native**
 
-About the company ⭐
+#About the company ⭐
 
 
 By combining advances in medicine, data science and behavioral science, that deeptech startup provides its members with a state-of-the art 360° medical check-up, followed by a personalized digital support system to profoundly improve their quality of life and healthspan.
@@ -11,12 +11,14 @@ By combining advances in medicine, data science and behavioral science, that dee
 
 **A mobile application** that helps members take daily action to implement recommendations and make qualitative changes in their lives
 
-About the rol🤝
+#About the rol🤝
 
-We are looking for a Staff Engineer expert in scalable and complex environements You have +5 years of experience as a backend in deeptech companies If you are an advocate of Nodejs/Typescript it will be a +! Architectures, design systems, clean code, databes.... have no secret for you!
+We are looking for a Mobile Engineer expert in scalable and complex environements You have +3 years of experience as a Mobbile Engineer in startups/scaleups/unicorns.You have an exelent proficiency in React Native + Typescript.
 
-Stack of the product💻 : Nodejs, Nestjs, TS, AWS, PostgreSQL, Kafka, K8s, Terraform
+ In this role, you will be responsible for the design, production and testing of our mobile applications, including our core member application.
 
-Conditions 💰
+Stack of the product💻 : React, React Native,TS, GraphQl, Nodejs, Nestjs, TS, AWS, PostgreSQL, Kafka, K8s, Terraform
 
-Salary up to 150k Insurance, restaurant, gym. Equitys
+#Conditions 💰
+
+Salary range open depending on profile and experience + Insurance, restaurant, gym. Equitys

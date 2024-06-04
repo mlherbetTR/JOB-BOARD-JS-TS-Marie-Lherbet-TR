@@ -1,5 +1,5 @@
 
-**FULLSTACK- 100% Remote - UP TO 100K** 
+**FULLSTACK- 100% Remote - UP TO 70K** 
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .
 
@@ -20,7 +20,7 @@ Product 💻 Saas Platform
 
 
 Required ☝️
-5+ years of experience as a Software Engineer (Node, React, Typescript expertise)
+3+ years of experience as a Software Engineer (Node, React, Typescript expertise)
 For the lead positions: experience as a lead working remotly!
 Design systems experience 
 You are a lover of good practices and have experience in testing + TDD.

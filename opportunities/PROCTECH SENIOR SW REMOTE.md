@@ -1,5 +1,5 @@
 
-**FULLSTACK- 100% Remote - UP TO 70K** 
+**FULLSTACK- 100% Remote - UP TO 75K** 
 
 Switzerland startup with great growth potential who has built a very competitive SaaS .
 
